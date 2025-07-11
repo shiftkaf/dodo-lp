@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://shiftkaf.github.io/dodo-lp/sitemap.xml
+Sitemap: https://dodolearn.com/sitemap.xml
